@@ -3,8 +3,6 @@ Lim
 
 Lim is a small text editor in less than 1K lines of code (counted with cloc).
 
-A screencast is available here: https://asciinema.org/a/90r2i9bq8po03nazhqtsifksb
-
 Usage: lim`<filename>`
 
 Keys:
